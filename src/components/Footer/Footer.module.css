@@ -1,0 +1,16 @@
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(221, 173, 42);
+    opacity: 0.5;
+    margin-top: 30px;
+    width: 100%;
+}
+.footer img{
+    width: 300px;
+}
+.footer h3{
+    margin-bottom: 30px;
+}
